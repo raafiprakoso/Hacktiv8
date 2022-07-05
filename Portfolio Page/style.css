@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    background-color: white;
+}
+
+nav{
+    box-shadow: -1px 5px 36px -6px rgba(0,0,0,0.59);
+-webkit-box-shadow: -1px 5px 36px -6px rgba(0,0,0,0.59);
+-moz-box-shadow: -1px 5px 36px -6px rgba(0,0,0,0.59);
+}
+
+nav ul li a:hover {
+    background-color: orange;
+}
+
+/* Main */
+.image-list{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-list img{
+    height:300px;
+    width: 300px;
+    margin: 20px;
+}
+
+/* Footer Top */
+.footer-top{
+    background-color: black;
+    color:white
+}
+
+.footer-top .wrap {
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.footer-top .wrap .col-sm {
+    text-align: left;
+}
+
+/* Footer Bottom */
+.footer-bottom{
+    padding: 20px;
+}
