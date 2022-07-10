@@ -13,27 +13,11 @@ nav ul li a:hover {
     background-color: orange;
 }
 
-/* Content Top */
-.content-top .wrap{
-    text-align: center;
-    margin: 60px 40px;
+/* Our Team */
+.Our-Team img{
+    margin: 30px;
 }
 
-/* Content Middle */
-.content-middle{
-    margin-top: 3%;
-    text-align: center;
-}
-
-.content-middle ul li{
-    margin: 20px;
-}
-
-/* Content Bottom */
-.content-bottom{
-    margin-top: 3%;
-    text-align: center;
-}
 
 .content-bottom ul li{
     margin: 20px;
